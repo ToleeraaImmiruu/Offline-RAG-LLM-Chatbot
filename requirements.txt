@@ -7,6 +7,3 @@ numpy
 streamlit
 tiktoken
 sentence-transformers
-
-# FORCE CPU torch (NO CUDA)
-torch==2.2.2+cpu
