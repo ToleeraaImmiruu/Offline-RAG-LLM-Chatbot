@@ -1,6 +1,5 @@
 import streamlit as st
 from src.rag_pipeline import ask
-
 # -------------------------------
 # Page Config
 # -------------------------------
