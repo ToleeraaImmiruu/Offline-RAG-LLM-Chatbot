@@ -10,7 +10,6 @@ st.set_page_config(
 )
 st.title("📄 Offline PDF RAG Chatbot")
 st.caption("Answers are generated ONLY from the uploaded document.")
-
 # -------------------------------
 # Session State Initialization
 # -------------------------------
