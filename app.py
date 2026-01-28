@@ -15,7 +15,6 @@ st.caption("Answers are generated ONLY from the uploaded document.")
 # -------------------------------
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
-
 # -------------------------------
 # User Input
 # -------------------------------
