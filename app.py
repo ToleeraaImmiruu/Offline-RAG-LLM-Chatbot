@@ -8,7 +8,6 @@ st.set_page_config(
     page_icon="📄",
     layout="wide"
 )
-
 st.title("📄 Offline PDF RAG Chatbot")
 st.caption("Answers are generated ONLY from the uploaded document.")
 # -------------------------------
